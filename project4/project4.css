@@ -1,0 +1,15 @@
+h1 {
+	font-family: palatino, georgia, serif;
+	font-size: 1.5em;
+}
+
+p {
+	font-family: palatino, georgia, serif;
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+body {
+	text-align: center;
+}
