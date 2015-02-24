@@ -1,0 +1,43 @@
+html {
+	text-align: center;
+	background-image: url(http://www.emoticonswallpapers.com/background/thumb/pattern/background-pattern-004.jpg);
+}
+
+body {
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+	border-bottom: 4px solid black;
+	font-weight: 800;
+	padding-top: .5em;
+
+}
+
+nav {
+	float: center;
+	font-size: 2em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #000000;
+  margin: 1em;
+  display: inline-block;
+  font-weight: 800;
+
+}
+
+p {
+	font-family: cursive;
+	font-size: 1.5em;
+	font-weight: 800;
+}
+
+img {
+	width: 500;
+	height: auto;
+}
